@@ -6,9 +6,8 @@ Language: Java
 # Description
 This is a password cracker that uses both dictionary and brute-force. It uses MD5, SHA-256, and BCrypt in order to hashes and find the correct password. The program will search through the list of 10000 passwords and find the matching password. If there are no match, a brute force attack will occur. Depending on the length of the password, the program will find the matching password in a specific time. 
 
-# Installation
-
 # Usage
+You can just copy and paste it or get the raw version and copy and paste. Just change the package and class name to match yours. You have to make a seperate class for the BCrypt and another class for the password cracker. 
 
 # Credits
 BCrypt - lokeshgupta1981
