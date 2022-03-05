@@ -19,4 +19,5 @@ I couldn't do BCrypt. However a found a website that included a source code from
 Brute Force - https://codereview.stackexchange.com/questions/114594/brute-force-passwords-in-java
 This website had the brute force. This created a starting point that allowed me to get the brute force. I used part of this code while also adding my own code. 
 
-
+top 10000 passwords
+https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10-million-password-list-top-10000.txt
